@@ -2,7 +2,8 @@
 # Day 10 Lab: Data Pipeline & Data Observability
 
 **Student Email:** quang191204@gmail.com
-**Name:** WilLz1912
+**Student ID:** 2A202600931
+**Name:** Lê Sỹ Minh Quang
 
 ---
 

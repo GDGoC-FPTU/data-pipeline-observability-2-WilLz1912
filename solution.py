@@ -2,8 +2,8 @@
 ==============================================================
 Day 10 Lab: Build Your First Automated ETL Pipeline
 ==============================================================
-Student ID: AI20K-WilLz1912
-Name: WilLz1912
+Student ID: 2A202600931
+Name: Lê Sỹ Minh Quang
 
 Nhiem vu:
    1. Extract:   Doc du lieu tu file JSON

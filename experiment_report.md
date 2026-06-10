@@ -1,7 +1,7 @@
 # Experiment Report: Data Quality Impact on AI Agent
 
-**Student ID:** AI20K-WilLz1912
-**Name:** WilLz1912
+**Student ID:** 2A202600931
+**Name:** Lê Sỹ Minh Quang
 **Date:** 2026-06-10
 
 ---
